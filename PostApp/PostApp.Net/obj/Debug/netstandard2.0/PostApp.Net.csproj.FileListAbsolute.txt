@@ -1,0 +1,11 @@
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.deps.json
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.dll
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.pdb
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Data.dll
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Data.pdb
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.csprojResolveAssemblyReference.cache
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.csproj.CoreCompileInputs.cache
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.AssemblyInfoInputs.cache
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.AssemblyInfo.cs
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.dll
+F:\Xamarin\Assignment\3\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.pdb
